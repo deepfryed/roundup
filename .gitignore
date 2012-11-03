@@ -1,0 +1,8 @@
+.bundle/
+pkg/*
+.yardoc
+doc/*
+tmp/*
+*.gem
+gems/
+bin/
